@@ -11,7 +11,7 @@
   *
   * Return: Always 0.
  */
-int main{void}
+int main(void)
 {
 	int num1, num2;
 
